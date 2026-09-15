@@ -119,6 +119,3 @@ The model successfully classified samples from all three classes, with some conf
 - ImageHash
 
 
-├── requirements.txt
-├── .gitignore
-└── LICENSE
